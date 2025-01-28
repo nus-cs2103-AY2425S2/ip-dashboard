@@ -1,1 +1,1 @@
-[]
+[{"path":"src/main/java/fruits.txt","fileType":"txt","lines":[{"lineNumber":1,"author":{"gitId":"Melvan-Chan"},"content":"apples","lastModifiedDate":"2025-01-28","isFullCredit":false},{"lineNumber":2,"author":{"gitId":"Melvan-Chan"},"content":"Berries","lastModifiedDate":"2025-01-28","isFullCredit":false},{"lineNumber":3,"author":{"gitId":"Melvan-Chan"},"content":"Chocolate","lastModifiedDate":"2025-01-28","isFullCredit":false}],"authorContributionMap":{"Melvan-Chan":3}}]
